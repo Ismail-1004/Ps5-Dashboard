@@ -120,3 +120,15 @@
     opacity: 1;
     visibility: visible;
 }
+
+/* media start */
+@media (max-width: 693px) {
+    .dashboard__games {
+        bottom: -50px;
+        width: 100%;
+    }
+    .dashboard__games-game {
+        width: 250px;
+    }
+}
+/* media end */
