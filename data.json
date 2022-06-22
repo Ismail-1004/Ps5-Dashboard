@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "game": "The Witcher 3: Wild Hunt",
+        "game_cover": "img/witcher.jpg",
+        "game_bg": "img/WitcherBg.jpg",
+        "url": "https://www.youtube.com/watch?v=6LTAcYexhT8"
+    },
+    {
+        "id": 2,
+        "game": "Spider-Man: Miles Morales",
+        "game_cover": "img/spider.jpg",
+        "game_bg": "img/spiderBg.jpg",
+        "url": "https://www.youtube.com/watch?v=Fi__AIxg9Xo"
+    },
+    {
+        "id": 3,
+        "game": "Horizon: 2 Forbidden West",
+        "game_cover": "img/horizon.jpg",
+        "game_bg": "img/horizonBg.jpg",
+        "url": " https://www.youtube.com/watch?v=ASCpeIoV9uE"
+    },
+    {
+        "id": 4,
+        "game": "Ultimate Fighting Championship",
+        "game_cover": "img/ufc.jpg",
+        "game_bg": "img/ufcBg.jpg",
+        "url": "https://www.youtube.com/watch?v=fL3GqofvvLQ"
+    },
+    {
+        "id": 5,
+        "game": "Grand theft auto 5",
+        "game_cover": "img/gta5.jpeg",
+        "game_bg": "img/gta5Bg.jpg",
+        "url": "https://www.youtube.com/watch?v=wrWyGaSWXBU"
+    },
+    {
+        "id": 6,
+        "game": "Ratchet & Clank™: Rift Apart",
+        "game_cover": "img/ratchet.jpg",
+        "game_bg": "img/ratchetBg.webp",
+        "url": "https://www.youtube.com/watch?v=gMM7McSggbc"
+    },
+    {
+        "id": 7,
+        "game": "Assassin’s Creed Valhalla",
+        "game_cover": "img/assasin.jpg",
+        "game_bg": "img/assasinBg.jpg",
+        "url": "https://www.youtube.com/watch?v=UuUvgYRyz0A"
+    },
+    {
+        "id": 8,
+        "game": "The Last Of Us - Part II",
+        "game_cover": "img/ofusBg.jpg",
+        "game_bg": "img/ofus.jpeg",
+        "url": "https://www.youtube.com/watch?v=BXEfZwJPvkE"
+    },
+    {
+        "id": 9,
+        "game": "Far Cry 6 Standard Edition",
+        "game_cover": "img/farcry.jpg",
+        "game_bg": "img/farcryBg.jpg",
+        "url": "https://www.youtube.com/watch?v=kBfn7DNUPLY"
+    },
+    {
+        "id": 10,
+        "game": "Immortals : Fenyx Rising",
+        "game_cover": "img/immor.jpg",
+        "game_bg": "img/immorBg.jpg",
+        "url": "https://www.youtube.com/watch?v=ZHYU4J2b0k8"
+    }
+]
